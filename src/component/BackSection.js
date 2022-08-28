@@ -10,12 +10,15 @@ const BackSection = () => {
             <section className="hero-text-section">
                 <section className="hero-text">
                     <h2>Backend</h2>
-                    <h3>Java, Spring, SQL, Unix, Python, Flask</h3>
+                    <h3>Java, Python, Spring, Flask, SQL and NonSQL, CICD, Kafka/RabbitMQ</h3>
                     <p>
                         Started learning Java in the summer of 2021 with online courses and a mentor, who 
-                        really helped me appreciate the Agile Approach to software design, architecture,  He introduced me 
-                        to other mentors in the form of books, and pointed me towards understanding the 
-                        importance of software design and architecture. I started creating simple projects 
+                        instilled the Agile Approach to software design, TDD and Clean Code. After completing 
+                        my intensive course at CodeClan and a lot of self Study, I learned how to develop and deploy 
+                        Python applications using Flask, and Spring applications using Java, liked a presistence
+                        layer using SQL and MongoDB to perform CRUD operations, querying APIs as well as using 
+                        messaging broker technologies like Kafka, RabbitMQ and WebSocket, and using CircleCI and 
+                        AWS to deploy using a CICD/DevOps pipeline.
                     
                     </p>
                 </section>
