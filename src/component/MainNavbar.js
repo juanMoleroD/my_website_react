@@ -4,7 +4,7 @@ import './MainNavbar.css'
 const MainNavbar = () => {
     return (
         <header id="main-navbar">
-            <h1 id="title">Juan Molero</h1>
+            <h1 id="title">JMD</h1>
             <ul id="navbar-link-list">
                 <li>
                     <a href="#frontend">Front</a>
@@ -28,7 +28,6 @@ const MainNavbar = () => {
                     <a href="https://www.linkedin.com/in/juan-molero-di-meco-b7b94a136">LinkedIn</a>
                 </li>
             </ul>
-
         </header>
     )
 }

@@ -5,7 +5,7 @@
 
 .hero-text-section {
     /* background-color: orange; */
-    width: 60%;
+    width: 55%;
     align-items: center;
 }
 
@@ -34,12 +34,22 @@
     color: white;
 }
 
+.hero-text-black {
+    /* background-color: aqua; */
+    margin: 0px 30px;
+    color: black;
+}
+
 .hero-text > h2,h3,p {
     font-size: 2em;
 }
 
 .hero-text > h3 {
     color: lightgray
+}
+
+.hero-text-black > h3 {
+    color: rgb(37, 37, 37)
 }
 
 .hero-text > p {
