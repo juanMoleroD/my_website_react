@@ -4,7 +4,7 @@
 }
 
 .hero-text-section {
-    background-color: orange;
+    /* background-color: orange; */
     width: 60%;
     align-items: center;
 }
@@ -12,13 +12,37 @@
 .hero-image-section {
     display: flex;
     align-items: center;
-    background-color: crimson;
+    /* background-color: crimson; */
 }
 
 
 .hero-image {
     height: 500px;
     width: 500px;
-    background-color: purple;
+    /* background-color: purple; */
     border-radius: 50%;
+}
+
+.hero-text-section {
+    display: flex;
+
+}
+
+.hero-text {
+    /* background-color: aqua; */
+    margin: 0px 30px;
+    color: white;
+}
+
+.hero-text > h2,h3,p {
+    font-size: 2em;
+}
+
+.hero-text > h3 {
+    color: lightgray
+}
+
+.hero-text > p {
+    color: gray;
+    font-size: 1.7em;
 }

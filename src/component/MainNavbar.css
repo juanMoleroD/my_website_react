@@ -1,6 +1,5 @@
 #main-navbar {
     background-color: rgb(33, 37, 41);
-    box-shadow: 0 4px 8px 0px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) ;
     color: white;
     height: 130px;
     display: flex;
@@ -19,7 +18,7 @@
     display: flex;
     list-style: none;
     padding: 0px 0px;
-    margin: 0;
+    margin: 0px 20px 0px 0px;
     align-items: center;
 }
 
@@ -31,22 +30,4 @@
 :any-link {
     text-decoration: none;
     color: darkgray;
-}
-
-.hero-text-section {
-    display: flex;
-
-}
-
-.hero-text {
-    background-color: aqua;
-    margin: 0px 30px;
-}
-
-.hero-text > h2,h3,p {
-    font-size: 2em;
-}
-
-.hero-text > h3 {
-    
 }
