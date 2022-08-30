@@ -1,0 +1,33 @@
+#technologies {
+    padding: 30px 0px;
+    height: 700px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    
+}
+
+#tech-grid {
+    background-color: greenyellow;
+    display: flex;
+    width: 80%;
+    flex-direction: column;
+}
+
+.tech-grid-row {
+    /* background-color: brown; */
+    display: flex;
+    justify-content: space-evenly;
+    height: 300px;
+    margin-bottom: 30px;
+}
+
+.skill-card {
+    background-color: blue;
+    width: 20%;
+}
+
+.skill-card > h3,h5,p {
+    font-size: 1.2em;
+    margin: 0;
+}
